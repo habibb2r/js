@@ -12,6 +12,7 @@
 // }
 
 
+//JS
 
 // function print(a, b, c){
 //   return a+2;
